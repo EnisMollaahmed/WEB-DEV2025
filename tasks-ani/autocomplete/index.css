@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 40px 140px;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    border-radius: 0 0 10px 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10;
+    border-radius: 10px;
+}
+
+li:hover {
+    background-color: #d5d3d3;
+}
