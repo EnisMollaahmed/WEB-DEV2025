@@ -1,0 +1,13 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 40px 140px;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+#form-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 40px 0px;
+}
